@@ -178,7 +178,7 @@ Edits the information of an existing applicant, or the application status of all
 Format: `edit INDEX [n/NAME] [p/PHONE] [e/EMAIL] [g/GRADE] [i/INSTITUTION] [c/COURSE] [y/GRADUATION_YEAR_MONTH] [j/JOB] [a/APPLICATION_STATUS] [s/SKILL]…`
 * If only `INDEX` is specified, the applicant at the specified `INDEX` will be edited.
 * When editing skills, all existing skills of the applicant will be replaced i.e adding of skills is not cumulative.
-* You can remove all the person’s skills by typing `s/` without
+* You can remove all the applicant’s skills by typing `s/` without
   specifying any skills after it.
 
 #### Edit all currently displayed applicants:
